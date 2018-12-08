@@ -1,4 +1,4 @@
-package: github.com/copernet/genburn
+package: github.com/wormholeSV/genburn
 import:
 - package: github.com/btcsuite/btcutil
 - package: github.com/btcsuite/btcd
